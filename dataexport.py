@@ -4,8 +4,8 @@ import pandas as pd
 # MySQL connection details - replace with your own
 config = {
     'host': 'localhost',
-    'user': 'root',
-    'password': 'Shubh_26',
+    'user': '#####',
+    'password': '######',
     'database': 'customerchurn',
     'port': 3306  # change if needed
 }
