@@ -116,7 +116,7 @@ Plot saved: `churn_by_region.png`
 
 - `telecom_churn_analysis.py`: Main Python notebook
 - `plots/`: Folder with all generated plots
-- `Telecom_Churn_Report.pptx`: Final presentation/report
+- `CUSTOMERCHURNALYSIS.pptx`: Final presentation/report
 - `README.md`: Project documentation
 
 ---
@@ -153,7 +153,6 @@ _Data Analyst Intern, Elevate Labs_
 
 This project is for educational & research purposes. Feel free to fork and adapt with credit.
 
-```
 
 ---
 
